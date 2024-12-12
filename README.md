@@ -1,6 +1,6 @@
 # 🌎 World Dataset Exploration 📂
 
-Welcome to the **World Dataset Exploration** project! 🌟 In this project, we dive into a rich dataset containing global information and analyze it using **SQL**. Additionally, we design and document the data relationships with an **Entity-Relationship (EER) Diagram**. Let's uncover the world’s data story together! 🌐
+Welcome to the **World Dataset Exploration** project! 🌟 In this project, I dive into a rich global information dataset and analyze it using **SQL**. Additionally, I design and documented the data relationships with an **Entity-Relationship (EER) Diagram**. Let's uncover the world’s data story together! 🌐
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the **World Dataset Exploration** project! 🌟 In this project, we d
 ## 🗺️ Project Overview
 
 1. **🌐 Dataset**:  
-   We used the **World Dataset**, a comprehensive collection of information about countries, cities, and other global entities.  
+   I used the **World Dataset**, a comprehensive collection of information about countries, cities, and other global entities.  
 
 2. **🔍 Exploration**:  
    - Executed SQL queries to uncover trends, patterns, and insights.  
@@ -38,7 +38,10 @@ Welcome to the **World Dataset Exploration** project! 🌟 In this project, we d
 
 - **SQL Queries**:  
    Examples of the analysis performed include:  
-   - 🌟 Identifying countries with the largest populations.  
+   - 🌟 Identifying countries with the largest populations.
+<img src="https://github.com/user-attachments/assets/99344bfa-874b-4090-9490-0a589d404186" alt="Alt Text" width="300" height="200">
+
+
    - 📈 Exploring GDP and economic trends.  
    - 🏙️ Analyzing city-level data for urban insights.  
 
