@@ -20,8 +20,8 @@ Welcome to the **World Dataset Exploration** project! 🌟 In this project, I di
    - Executed SQL queries to uncover trends, patterns, and insights.  
    - Explored relationships between different entities in the dataset.
 
-<img src="https://github.com/user-attachments/assets/17d73bd0-d10b-4fba-876c-5a7f3a0dd0b3" alt="Alt Text" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/4af2a942-69c0-4c46-8413-f40509d73a34" alt="Alt Text" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/17d73bd0-d10b-4fba-876c-5a7f3a0dd0b3" alt="Alt Text" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/4af2a942-69c0-4c46-8413-f40509d73a34" alt="Alt Text" width="400" height="300">
 
 
 
