@@ -50,7 +50,7 @@ Welcome to the **World Dataset Exploration** project! 🌟 In this project, I di
    A detailed **EER Diagram** showcasing the database schema and relationships.  
 
 <img src="https://github.com/user-attachments/assets/cd499c5e-54cb-47e9-ae7c-34d2f649a681" alt="Alt Text" width="400" height="300">
-<img src="https://github.com/user-attachments/assets/13f91ed2-f610-429a-b0fe-fc17d546f226" alt="Alt Text" width="400" height="300">
+
 
 
 ---
