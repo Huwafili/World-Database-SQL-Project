@@ -37,8 +37,8 @@ Welcome to the **World Dataset Exploration** project! 🌟 In this project, we d
 - **EER Diagram**:  
    A detailed **EER Diagram** showcasing the database schema and relationships.  
 
-   ![EER Diagram Example](https://via.placeholder.com/600x300)  
-   *Replace this placeholder with an actual diagram from your project.*
+   ![image](https://github.com/user-attachments/assets/cd499c5e-54cb-47e9-ae7c-34d2f649a681)
+
 
 ---
 
