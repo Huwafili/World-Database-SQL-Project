@@ -39,9 +39,12 @@ Welcome to the **World Dataset Exploration** project! 🌟 In this project, I di
   
   <img src="https://github.com/user-attachments/assets/99344bfa-874b-4090-9490-0a589d404186" alt="Alt Text" width="400" height="200">
 
+   - 📈 Exploring GDP and economic trends.
+<img src="https://github.com/user-attachments/assets/2a374441-fce2-4df8-9516-58cea49d507d" alt="Alt Text" width="400" height="200">
+<img src="https://github.com/user-attachments/assets/ca0bd122-d333-43b4-8c43-2fbc6a8b5fb5" alt="Alt Text" width="400" height="200">
 
-   - 📈 Exploring GDP and economic trends.  
-   - 🏙️ Analyzing city-level data for urban insights.  
+   - 🏙️ Analyzing city-level data for urban insights.
+<img src="https://github.com/user-attachments/assets/e6fd63c9-8659-4f27-b1ee-35ccac7ddc1c" alt="Alt Text" width="400" height="200">
 
 - **EER Diagram**:  
    A detailed **EER Diagram** showcasing the database schema and relationships.  
