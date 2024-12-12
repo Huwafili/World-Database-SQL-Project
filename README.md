@@ -20,11 +20,8 @@ Welcome to the **World Dataset Exploration** project! 🌟 In this project, I di
    - Executed SQL queries to uncover trends, patterns, and insights.  
    - Explored relationships between different entities in the dataset.
 
-<img src="https://github.com/user-attachments/assets/34367f06-b163-4d25-b912-787a5875236e" alt="Alt Text" width="500" height="300">
 <img src="https://github.com/user-attachments/assets/17d73bd0-d10b-4fba-876c-5a7f3a0dd0b3" alt="Alt Text" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/847270c2-ae42-46f8-ab8c-225fcd8558d0" alt="Alt Text" width="500" height="300">
 <img src="https://github.com/user-attachments/assets/4af2a942-69c0-4c46-8413-f40509d73a34" alt="Alt Text" width="500" height="300">
-
 
 
 
@@ -40,7 +37,7 @@ Welcome to the **World Dataset Exploration** project! 🌟 In this project, I di
    Examples of the analysis performed include:  
    - 🌟 Identifying countries with the largest populations.
   
-  <img src="https://github.com/user-attachments/assets/99344bfa-874b-4090-9490-0a589d404186" alt="Alt Text" width="300" height="200">
+  <img src="https://github.com/user-attachments/assets/99344bfa-874b-4090-9490-0a589d404186" alt="Alt Text" width="400" height="200">
 
 
    - 📈 Exploring GDP and economic trends.  
